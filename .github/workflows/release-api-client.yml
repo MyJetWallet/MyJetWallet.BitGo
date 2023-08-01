@@ -11,3 +11,4 @@ jobs:
       release_version: ${GITHUB_REF#refs/tags/}
     secrets: 
       NUGET_TOCKEN: ${{ secrets.NUGET_TOCKEN }}
+      NUGET_AUTH_TOKEN: ${{ secrets.NUGET_AUTH_TOKEN }}
