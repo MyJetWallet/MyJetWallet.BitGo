@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net7.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <Description>BitGo.Net is a .Net wrapper for the BitGo API v2. It includes all features that the API provides.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
